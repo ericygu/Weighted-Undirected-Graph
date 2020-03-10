@@ -1,6 +1,6 @@
 # Weighted-Undirected-Graph
 
-Wote a program to process a weighted undirected graph that:
+Wrote a program to process a weighted undirected graph that:
 1. Reads in the number of vertices V and the number of edges E of the graph followed by its
 E edges, each in the form u, v, w where 1 <= u, v <= V & w > 0 representing an edge (u,
 v) with weight w.
